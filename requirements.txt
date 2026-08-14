@@ -14,3 +14,4 @@ torch
 pypdf
 reportlab
 pydub
+langchain-chroma
