@@ -1,6 +1,6 @@
 streamlit
 openai-whisper
-yt-dlp
+yt-dlp[default]>=2026.6.0
 torch
 langchain
 langchain-core
